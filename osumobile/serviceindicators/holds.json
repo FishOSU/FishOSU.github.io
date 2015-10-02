@@ -1,0 +1,35 @@
+{
+    "data": {
+        "serviceIndicators": [
+            {
+                "amount": "30000.22",
+                "currency": "USD",
+                "department": "Film Studies Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                "instruction": "A payment presented on your behalf has been returned. Please contact the Office of the University Bursar at bursar@osu.edu or 614-292-1056. Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                "reason": "Returned Check (NSF) Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+                "startDate": "2009-08-25T04:00:00.000Z",
+                "summary": "No Checks Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+            },
+            {
+                "amount": "45.18",
+                "currency": "USD",
+                "department": "University Bursar",
+                "instruction": "The account",
+                "reason": "Transfer to OH Attrny General",
+                "startDate": "2013-04-01T04:00:00.000Z",
+                "summary": "Financial Hold - Bad Debt"
+            },
+            {
+                "amount": "308.41",
+                "currency": "USD",
+                "department": "University Bursar",
+                "instruction": "The account has been transferred to the Office of the Ohio Attorney General for collection.",
+                "reason": "Transfer to OH Attrny General",
+                "startDate": "2013-04-01T04:00:00.000Z",
+                "summary": "Financial Hold - Bad Debt"
+            }
+        ]
+    },
+    "lastModified": "2015-09-09T18:00:26.405Z",
+    "status": "success"
+}
