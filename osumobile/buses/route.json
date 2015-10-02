@@ -1,0 +1,47 @@
+{
+    "status": "success",
+    "lastModified": "2015-10-02T14:15:40.546Z",
+    "data": {
+        "vehicles": [
+            {
+                "id": "2502",
+                "routeCode": "ER",
+                "latitude": 40.007982388348644,
+                "longitude": -82.99817700453208,
+                "heading": 3,
+                "speed": 30,
+                "destination": "ACADEMIC CORE",
+                "patternId": "438",
+                "distance": 3904,
+                "updated": "2015-10-02T14:15:35.000Z",
+                "delayed": false
+            },
+            {
+                "id": "2501",
+                "routeCode": "ER",
+                "latitude": 40.003151452363426,
+                "longitude": -83.00092406771076,
+                "heading": 182,
+                "speed": 21,
+                "destination": "ACADEMIC CORE",
+                "patternId": "438",
+                "distance": 11415,
+                "updated": "2015-10-02T14:15:22.000Z",
+                "delayed": false
+            },
+            {
+                "id": "2204",
+                "routeCode": "ER",
+                "latitude": 39.998266740278765,
+                "longitude": -83.00974343039773,
+                "heading": 355,
+                "speed": 17,
+                "destination": "ACADEMIC CORE",
+                "patternId": "438",
+                "distance": 17019,
+                "updated": "2015-10-02T14:15:30.000Z",
+                "delayed": false
+            }
+        ]
+    }
+}
